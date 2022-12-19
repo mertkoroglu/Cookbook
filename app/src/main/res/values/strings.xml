@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MertKoroglu_HW2</string>
+    <string name="main_btn">Add New    ></string>
+    <string name="title">My Cookbook</string>
+    <string name="main_desc">Your Recipes:</string>
+    <string name="id">ID: </string>
+    <string name="name">Name: </string>
+    <string name="type">Type: </string>
+    <string name="calorie">Calorie: </string>
+    <string name="recipe">Recipe: </string>
+    <string name="add_btn">ADD</string>
+    <string name="howto">How to do?</string>
+    <string name="change">Change Ingredients</string>
+    <string name="second_btn">Confirm</string>
+    <string name="dialog_text">Recipe Updated To:</string>
+    <string name="dialog_btn">OK</string>
+
+</resources>

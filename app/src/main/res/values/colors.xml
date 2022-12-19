@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="mainColor">#008A61</color>
+    <color name="variant">#00B17D</color>
+    <color name="third">#E7F9F4</color>
+    <color name="spinner">#9AF3D8</color>
+    <color name="baking">#FE5F04</color>
+    <color name="frying">#279400</color>
+    <color name="stew">#9004FE</color>
+</resources>
